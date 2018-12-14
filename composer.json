@@ -2,7 +2,7 @@
     "name": "inquid/yii-shipping",
     "description": "Shipping Handler for multiple providers and carriers",
     "type": "yii2-extension",
-    "keywords": ["yii3","yii2","extension","payments","shipping","DHL","Fedex","UPS","Estafeta","Correos de Méxic","US Postal"],
+    "keywords": ["yii3","yii2","extension","payments","shipping","DHL","Fedex","UPS","Estafeta","Correos de México","US Postal"],
     "license": "Apache-2.0",
     "authors": [
         {
